@@ -81,7 +81,6 @@ if st.sidebar.button('Executar Análise'):
             sorted_bins = bins[:-1][sorted_indices]
             plt.figure(figsize=(14, 8))
             plt.barh(range(len(sorted_hist)), sorted_hist, color='skyblue', edgecolor='black')
-            plt.yticks(range(len(sorted_bins)), [f'{b:.6f}' for b in sorted_bins])
             plt.xlabel('Frequência')
             plt.ylabel('Faixa de Preço')
             plt.title(f'Ranking de Frequência para {ticker}')
@@ -114,7 +113,6 @@ if st.sidebar.button('Executar Análise'):
             sorted_bins = bins[:-1][sorted_indices]
             plt.figure(figsize=(14, 8))
             plt.barh(range(len(sorted_hist)), sorted_hist, color='skyblue', edgecolor='black')
-            plt.yticks(range(len(sorted_bins)), [f'{b:.6f}' for b in sorted_bins])
             plt.title(f'Ranking de Frequência para {ticker}/{ticker2}')
             plt.xlabel('Frequência')
             plt.ylabel('Faixa de Preço da Razão')
