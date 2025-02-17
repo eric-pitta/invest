@@ -37,7 +37,7 @@ def get_tickers():
         'CAT - Caterpillar Inc.', 'HON - Honeywell International Inc.', 'MMM - 3M Company',
         'SPY - SPDR S&P 500 ETF', 'QQQ - Invesco QQQ Trust', 'GLD - SPDR Gold Trust',
         'USO - United States Oil Fund', 'SLV - iShares Silver Trust', 'TLT - iShares 20+ Year Treasury Bond ETF',
-        'BNB-USD - Binance Coin', 'XRP-USD - Ripple', 'ADA-USD - Cardano','MANA-USD - Decentraland','XVG-USD - Verge', 'SOL-USD - Solana',
+        'BNB-USD - Binance Coin', 'XRP-USD - Ripple','ICP-USD - Internet Computer','ADA-USD - Cardano','MANA-USD - Decentraland','XVG-USD - Verge', 'SOL-USD - Solana',
         'DOGE-USD - Dogecoin', 'DOT-USD - Polkadot', 'AVAX-USD - Avalanche', 'UNI-USD - Uniswap',
         'LTC-USD - Litecoin', 'LINK-USD - Chainlink', 'XLM-USD - Stellar', 'FTT-USD - FTX Token',
         'BCH-USD - Bitcoin Cash', 'MATIC-USD - Polygon', 'XMR-USD - Monero', 'FIL-USD - Filecoin',
