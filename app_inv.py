@@ -20,7 +20,7 @@ def get_tickers():
         'BBDC4.SA - Bradesco', 'ABEV3.SA - Ambev', 'WEGE3.SA - Weg',
         'MGLU3.SA - Magazine Luiza', 'BBAS3.SA - Banco do Brasil',
         'LREN3.SA - Lojas Renner', 'CSNA3.SA - CSN', 'GGBR4.SA - Gerdau',
-        'JBSS3.SA - JBS', 'HAPV3.SA - Hapvida', 'RADL3.SA - Raia Drogasil','AAPL - Apple Inc.', 'MSFT - Microsoft Corp.', 'GOOGL - Alphabet Inc.',
+        'JBSS3.SA - JBS', 'HAPV3.SA - Hapvida', 'RADL3.SA - Raia Drogasil','^SPX','^BVSP','10Y=F - Juros EUA 10 Anos','AAPL - Apple Inc.', 'MSFT - Microsoft Corp.', 'GOOGL - Alphabet Inc.',
         'TSLA - Tesla Inc.', 'AMZN - Amazon.com Inc.', 'BTC-USD - Bitcoin',
         'ETH-USD - Ethereum', 'META - Meta Platforms Inc.', 'NVDA - NVIDIA Corp.',
         'BRK-B - Berkshire Hathaway', 'JNJ - Johnson & Johnson', 'WMT - Walmart Inc.',
