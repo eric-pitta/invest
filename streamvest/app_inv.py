@@ -29,7 +29,7 @@ def get_tickers():
         'INTC - Intel Corp.', 'PFE - Pfizer Inc.', 'CVX - Chevron Corp.', 'KO - Coca-Cola Co.',
         'PEP - PepsiCo Inc.', 'ABT - Abbott Laboratories', 'DIS - Walt Disney Co.',
         'CSCO - Cisco Systems Inc.', 'MRK - Merck & Co. Inc.', 'MCD - McDonalds Corp.',
-        'IBM - International Business Machines', 'NKE - Nike Inc.','GOLD - Barrick Gold Corporation','MSTR- MicroStrategy Incorporated', 'GS - Goldman Sachs Group',
+        'IBM - International Business Machines', 'NKE - Nike Inc.','GOLD - Barrick Gold Corporation','MSTR - MicroStrategy Incorporated', 'GS - Goldman Sachs Group',
         'AMAT - Applied Materials Inc.', 'NFLX - Netflix Inc.', 'ADBE - Adobe Inc.',
         'CRM - Salesforce Inc.', 'PYPL - PayPal Holdings Inc.', 'AMD - Advanced Micro Devices Inc.',
         'BA - Boeing Co.', 'T - AT&T Inc.', 'GE - General Electric Co.', 'F - Ford Motor Co.',
