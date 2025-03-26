@@ -21,7 +21,7 @@ def get_tickers():
         'MGLU3.SA - Magazine Luiza', 'BBAS3.SA - Banco do Brasil',
         'LREN3.SA - Lojas Renner', 'CSNA3.SA - CSN', 'GGBR4.SA - Gerdau',
         'JBSS3.SA - JBS', 'HAPV3.SA - Hapvida', 'RADL3.SA - Raia Drogasil','AAPL - Apple Inc.', 'MSFT - Microsoft Corp.', 'GOOGL - Alphabet Inc.',
-        'TSLA - Tesla Inc.', 'AMZN - Amazon.com Inc.', 'BTC-USD - Bitcoin',
+        'TSLA - Tesla Inc.', 'AMZN - Amazon.com Inc.','^TYX - Treasury Yield 30 Years', 'BTC-USD - Bitcoin',
         'ETH-USD - Ethereum', 'META - Meta Platforms Inc.', 'NVDA - NVIDIA Corp.',
         'BRK-B - Berkshire Hathaway', 'JNJ - Johnson & Johnson', 'WMT - Walmart Inc.',
         'V - Visa Inc.', 'JPM - JPMorgan Chase & Co.', 'PG - Procter & Gamble Co.',
